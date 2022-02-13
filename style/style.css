@@ -44,6 +44,10 @@
     background-color: #D54E06;
 }
 
+.goldenBell:active {
+    background-color: #E38917;
+}
+
 .biggerOnHover:hover {
     transform: scale(.98);
 }
