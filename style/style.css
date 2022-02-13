@@ -13,3 +13,29 @@
     height: 40vh;
     object-fit: cover;
 }
+
+.bone {
+    background-color: #E7DAC9;
+}
+
+.goldenBell {
+    background-color: #E38917;
+}
+
+.redStage {
+    background-color: #D54E06;
+}
+
+.sandstone {
+    background-color: #766F6A;
+}
+
+.profileBG {
+    background-color: #e0e0e0;
+}
+
+@media (max-width: 978px) {
+    .card {
+      margin:0;
+    }
+}
