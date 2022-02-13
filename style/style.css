@@ -43,3 +43,7 @@
 .goldenBell:hover {
     background-color: #D54E06;
 }
+
+.biggerOnHover:hover {
+    transform: scale(.98);
+}
