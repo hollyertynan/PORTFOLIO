@@ -39,3 +39,7 @@
       margin:0;
     }
 }
+
+.goldenBell:hover {
+    background-color: #D54E06;
+}
